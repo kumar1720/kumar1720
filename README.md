@@ -63,10 +63,9 @@
 
 | Project | Description | Stack |
 |----------|-------------|-------|
-| [🤖 AskGPT](https://github.com/kumar1720/LangGraph_Chatbot) • [🌐 Live](https://unified-chatbot-mcp.onrender.com/) | Multi-tenant agentic AI platform with MCP tools, web search & scraping, Qdrant vector memory, cross-chat semantic retrieval, and real-time voice interactions, handling 1,000+ AI queries/day in production. | LangGraph, FastAPI, Qdrant, Redis, MongoDB |
-| [👤 FaceTrack AI](https://github.com/kumar1720/FaceTrack) • [🌐 Demo](https://drive.google.com/file/d/1d8396wnptCgf3H7tejwjx8DN6H3Q_DLa/view) | Face recognition attendance system with 94.56% accuracy, secure data storage, and automated attendance management. | PyTorch, FaceNet, OpenCV, Django REST Framework |
-| [💻 LapPredict](https://github.com/kumar1720/Laptop_Price_Predictor) • [🌐 Live](https://laptop-price-predictor-oi00.onrender.com/) | ML-powered laptop price prediction system achieving 91.58% R² score and 33% MAE reduction over baseline, featuring a production-ready FastAPI microservice with JWT authentication, Redis caching, Docker deployment, and Streamlit dashboard. | Scikit-learn, FastAPI, Redis, Streamlit |
-
+| [🤖 AskGPT](https://github.com/kumar1720/LangGraph_Chatbot) • [🌐 Live](https://unified-chatbot-mcp.onrender.com/) | Multi-tenant agentic AI platform with MCP tools, Qdrant memory, semantic retrieval, and voice support. | LangGraph, FastAPI, Qdrant, Redis, MongoDB |
+| [👤 FaceTrack AI](https://github.com/kumar1720/FaceTrack) • [🌐 Demo](https://drive.google.com/file/d/1d8396wnptCgf3H7tejwjx8DN6H3Q_DLa/view) | Face recognition attendance system with 94.56% accuracy and secure storage. | PyTorch, FaceNet, OpenCV, Django REST |
+| [💻 LapPredict](https://github.com/kumar1720/Laptop_Price_Predictor) • [🌐 Live](https://laptop-price-predictor-oi00.onrender.com/) | Laptop price prediction platform with 91.58% R² score and FastAPI deployment. | Scikit-learn, FastAPI, Redis, Streamlit |
 <p align="center">
   <a href="https://github.com/kumar1720?tab=repositories">
     <img src="https://img.shields.io/badge/View%20All%20Repos-%23121011?style=for-the-badge&logo=github" />
